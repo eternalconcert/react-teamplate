@@ -11,7 +11,7 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
     "module": "esnext",
@@ -22,7 +22,7 @@
     "jsx": "react"
   },
   "include": [
-    "src"
+    "src/frontend"
   ],
   "exclude": [
     "src/**/*.test.tsx"

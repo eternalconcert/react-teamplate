@@ -1,6 +1,6 @@
 module.exports = {
   entry: {
-      main: "./src/index.tsx",
+      main: "./src/frontend/index.tsx",
   },
   mode: "development",
   module: {
